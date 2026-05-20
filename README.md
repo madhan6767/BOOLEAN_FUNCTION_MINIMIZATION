@@ -61,10 +61,12 @@ endmodule
 ```
 
 **RTL realization**
+
 <img width="787" height="712" alt="image" src="https://github.com/user-attachments/assets/1f216247-f4c6-463d-aa4f-5cfde1110dc6" />
 
 
 **RTL**
+
 <img width="1917" height="336" alt="image" src="https://github.com/user-attachments/assets/9fe8dfff-da5c-4b01-adad-591f9338316e" />
 
 <img width="1915" height="350" alt="image" src="https://github.com/user-attachments/assets/0ee16e98-3de4-4aa5-bbf3-c607071582d9" />
